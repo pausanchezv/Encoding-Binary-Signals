@@ -6,7 +6,6 @@
 * PROGRAMA DE CODIFICACIONS DE SEQÜÈNCIES BINÀRIES *
 ****************************************************
 
-Autors: Pau Sanchez Valdivieso i Albert Espín Román
 """
 
 import matplotlib.pyplot as plt
